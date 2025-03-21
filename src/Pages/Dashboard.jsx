@@ -8,7 +8,7 @@ import Filter from "../Pages/Filter/Filter";
 import UserProfile from "../Pages/UserProfile/UserProfile";
 import LogoutButton from "../Pages/LogoutButton/LogoutButton";
 import Title from "../../public/Title.png";
-import List from "../../public/List.png";
+import List from "../../public/list.png";
 import Group from "../../public/Group.png";
 import NotFound from "../../public/NotFound.png";
 import { Navigate, useLocation } from "react-router-dom";
